@@ -1,0 +1,210 @@
+{
+  "en": {
+    "sections": [
+      {
+        "department": "TECHNOLOGY",
+        "positions": [
+          {
+            "name": ".Net Developer",
+            "location": ["Taipei, Taiwan"],
+            "Responsibilities": [
+              "Web application development",
+              "WebApi development",
+              "Work with PM and SA to discuss system process"
+            ],
+            "Requirements": [
+              "Familiar with C#.NET and ASP.NET",
+              "Familiar Microsoft SQL Server",
+              "Familiar ADO.NET, Entity Framework, LINQ",
+              "Able to do modular programing and timeframe evaluation",
+              "Able to write test case"
+            ]
+          },
+          {
+            "name": "Android Developer",
+            "location": ["Taipei, Taiwan"],
+            "Responsibilities": [
+              "Familiar with Android SDK, Java",
+              "Experience with mobile application development",
+              "Ability to plan the entire system structure independently and efficiently",
+              "Experience and familiarity with mobile UI",
+              "Experience with third-party libraries and APIs.",
+              "Expertise in analyzing and optimizing the performance and efficiency",
+              "Familiar with Git",
+              "Familiarity with RESTful APIs to connect Android applications to back-end services "
+            ],
+            "Requirements": [
+              "Build and test applications for the Android platform ",
+              "Prepare development documents",
+              "Collaborate with a team to define, design, and ship new features ",
+              "Ensure the performance, quality, and responsiveness of applications",
+              "Help maintain code quality, organization, and automatization",
+              "Rapidly fix bugs and solve problems"
+            ],
+            "AdditionalRequirements":[
+              "Experiences with agile software development",
+              "Experiences with TDD",
+              "Experiences with kotlin"
+            ]
+          },
+          {
+            "name": "iOS Developer",
+            "location": ["Taipei, Taiwan"],
+            "Responsibilities": [
+              "Knowledge of Objective-C or swift with cocoa framework",
+              "Experience with mobile application development",
+              "Ability to plan the entire system structure independently and efficiently",
+              "Experience and familiarity with mobile UI",
+              "Ability to discover, evaluate, research and implement new technologies and latest iOS programming techniques to maximize the product quality and efficiency",
+              "Expertise in analyzing and optimizing the performance and efficiency",
+              "Familiar with Git",
+              "Familiarity with RESTful APIs to connect iOS applications to back-end services "
+            ],
+            "Requirements": [
+              "Build and test applications for the iOS platform ",
+              "Prepare development documents",
+              "Collaborate with a team to define, design, and ship new features ",
+              "Ensure the performance, quality, and responsiveness of applications",
+              "Help maintain code quality, organization, and automatization",
+              "Rapidly fix bugs and solve problems"
+            ],
+            "AdditionalRequirements":[
+              "Experiences with agile software development",
+              "Experiences with TDD"
+            ]
+          }
+        ]
+      },
+      {
+        "department": "DESIGN",
+        "positions": [
+          {
+            "name": "UI Designer",
+            "location": ["Taipei, Taiwan"],
+            "Responsibilities": [
+              "Be able to help clients to solve the business problems through transforming user insights to visual design",
+              "Staying up to date with latest design and technology trends",
+              "Communicate effectively in a cross-functional product development team and present ideas and designs effectively",
+              "Be able to quickly iterate and take on multiple projects in the same time",
+              "Oversee the development and delivery of effective user interfaces across a range of client websites and mobile apps",
+              "Work with the UX Design team to ensure all client sites and apps deliver the best experience possible"
+            ],
+            "Requirements": [
+              "Experience with entire product development process, from insight, design and hangover to development",
+              "Familiarity in designing across multiple devices from mobile, tablet, and desktop",
+              "Familiarity in the latest iOS and Android design guidelines",
+              "Strong skill on designing in system and nested symbol in Sketch",
+              "Excellent problem solving skills",
+              "Excellent interpersonal skills and great sense of humour",
+              "Self-motivated to prfioritize and manage workload and meet critical project milestones and deadlines"
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "tw": {
+    "sections": [
+      {
+        "department": "TECHNOLOGY",
+        "positions": [
+          {
+            "name": ".Net Developer",
+            "location": ["Taipei, Taiwan"],
+            "Responsibilities": [
+              "Web application development",
+              "WebApi development",
+              "Work with PM and SA to discuss system process"
+            ],
+            "Requirements": [
+              "Familiar with C#.NET and ASP.NET",
+              "Familiar Microsoft SQL Server",
+              "Familiar ADO.NET, Entity Framework, LINQ",
+              "Able to do modular programing and timeframe evaluation",
+              "Able to write test case"
+            ]
+          },
+          {
+            "name": "Android Developer",
+            "location": ["Taipei, Taiwan"],
+            "Responsibilities": [
+              "熟悉 Android SDK、Java ",
+              "需具備手機app開發經驗",
+              "能夠獨立規劃程式架構",
+              "熟悉並具備UI開發經驗",
+              "具備第三方套件及Api經驗",
+              "能夠分析與最佳化產品表現和效能為佳",
+              "熟悉Git版本控制",
+              "熟悉串接RESTful API"
+            ],
+            "Requirements": [
+              "將最新產品技術於Android系統上開發並建置",
+              "準備開發文件",
+              "與團隊合作定義、設計發佈新功能",
+              "確保應用程式的性能質量和影響性",
+              "幫助維護程式碼質量並且組織自動化",
+              "快速修復bug和解決問題"
+            ],
+            "AdditionalRequirements":[
+              "具備敏捷式開發經驗 (ex:scurm)",
+              "具備TDD開發經驗",
+              "具備kotlin經驗"
+            ]
+          },
+          {
+            "name": "iOS Developer",
+            "location": ["Taipei, Taiwan"],
+            "Responsibilities": [
+              "熟悉Objective-C 或是swift",
+              "需具備手機app開發經驗",
+              "能夠獨立規劃程式架構",
+              "熟悉並具備UI開發經驗",
+              "具備尋找並開發最新iOS技術以強化產品品質和效能的能力為佳",
+              "能夠分析與最佳化產品表現和效能為佳",
+              "熟悉Git版本控制",
+              "熟悉串接RESTful API"
+            ],
+            "Requirements": [
+              "將最新產品技術於iOS系統上開發並建置",
+              "準備開發文件",
+              "與團隊合作定義、設計發佈新功能",
+              "確保應用程式的性能質量和影響性",
+              "幫助維護程式碼質量並且組織自動化",
+              "快速修復bug和解決問題"
+            ],
+            "AdditionalRequirements":[
+              "具備敏捷式開發經驗 (ex:scurm)",
+              "具備TDD開發經驗"
+            ]
+          }
+        ]
+      },
+      {
+        "department": "DESIGN",
+        "positions": [
+          {
+            "name": "UI Designer",
+            "location": ["Taipei, Taiwan"],
+            "Responsibilities": [
+              "Be able to help clients to solve the business problems through transforming user insights to visual design",
+              "Staying up to date with latest design and technology trends",
+              "Communicate effectively in a cross-functional product development team and present ideas and designs effectively",
+              "Be able to quickly iterate and take on multiple projects in the same time",
+              "Oversee the development and delivery of effective user interfaces across a range of client websites and mobile apps",
+              "Work with the UX Design team to ensure all client sites and apps deliver the best experience possible"
+            ],
+            "Requirements": [
+              "Experience with entire product development process, from insight, design and hangover to development",
+              "Familiarity in designing across multiple devices from mobile, tablet, and desktop",
+              "Familiarity in the latest iOS and Android design guidelines",
+              "Strong skill on designing in system and nested symbol in Sketch",
+              "Excellent problem solving skills",
+              "Excellent interpersonal skills and great sense of humour",
+              "Self-motivated to prfioritize and manage workload and meet critical project milestones and deadlines"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
